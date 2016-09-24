@@ -1,0 +1,6 @@
+[u'9/18/2016 9:33:38', u'test', u'test', u'test', u'test', u'test', u'test', u'test', u'test', u'troll', u'face', u'test']
+[u'9/18/2016 9:36:22', u'1', u'1', u'1', u'1', u'1', u'1', u'1', u'1', u'test', u'#2', u'2']
+[u'9/18/2016 17:14:07', u'Science with Sinclair', u'ICS 11 Girls with Krasteva', u'English with Berenstein', u'Girls gym', u'Math with Ma', u'History with Cade', u'French with MJ', u'Chem 11 with Teper', u'Elizabeth', u'Cui', u'No']
+[u'9/18/2016 17:13:33', u'Science with Sinclair', u'ICS 11 Girls with Krasteva', u'English with Berenstein', u'Girls gym', u'Math with Ma', u'History with Cade', u'French with MJ', u'Chem 11 with Teper', u'Elizabeth', u'Cui', u'No']
+[u'9/18/2016 20:01:00', u'Science with Sinclair', u'French with Capozzi', u'English with Berenstein', u'Comm tech 10 with Stitt', u'Math with Ma', u'Business 10 with Cuttle', u'Civ/Car with Gourley/Levy', u'History with Knebel', u'Julia', u'Oh', u'No']
+[u'9/18/2016 20:52:30', u'Science with Sinclair', u'French with Capozzi', u'History with Knebel', u'ICS 11 with Krasteva', u'Math with Ma', u'ICS 12 with Krasteva', u'English with Ma', u'Grade 11 Law', u'Alan', u'Scott', u'I find the colours offensive']
