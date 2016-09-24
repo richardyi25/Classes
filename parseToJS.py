@@ -15,7 +15,7 @@ with open('table/jsHeader.js', 'r') as hf, open('table/jsFooter.js', 'r') as ff,
         last = person[10]
         courses = str(person[1:9])
 
-        wf.write()
+        wf.write('    \'' + first + ' ' + last + '\': new Person(\'' + first + '\', \'' + last + '\', ' + courses + '),\n')
         #convert each person into HTML table syntax
 
     wf.write(ff.read())
