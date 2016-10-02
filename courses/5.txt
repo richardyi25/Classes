@@ -1,5 +1,5 @@
-Civ/Car with Assim/Levy
-Civ/Car with Gourley/Levy
+CivCar with Assim and Levy
+CivCar with Gourley and Levy
 Commtech with Stitt
 Engineering 11 with Wong
 Gym with Aquino
@@ -7,3 +7,4 @@ History with Knebel
 ICS 11 with ZZ
 ICS 12 with Krasteva
 Math with Ma
+Unknown
